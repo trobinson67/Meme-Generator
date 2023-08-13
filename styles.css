@@ -1,0 +1,46 @@
+h1{
+    text-align: Center;
+}
+
+input{
+     width: 100%;
+     padding: 2px;
+     margin: 2px 0px 10px 0px;
+     background-color: black;
+     box-sizing: border-box;
+     border-radius: 5px;
+     display: block;
+     width: 75%;
+     color: white;
+}
+span{
+    display: block;
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.container{
+    text-align: center;
+    position: relative;
+    width: 100%;
+    
+    }
+#upper-text{
+        position: absolute;
+        top: 16px;
+        text-align: center;
+    }
+#lower-text{
+        position: absolute;
+        bottom: 16px;
+    }
+
+.img{
+    position: relative;
+    width: 75px;
+    }
+
+    
